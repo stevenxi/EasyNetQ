@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>EasyNetQ.Serilog</id>
+    <id>S.EasyNetQ.Serilog</id>
     <!-- Version gets updated from EasyNetQ.dll version number during the build's packaging process -->
     <version>0.62.1.0</version>
     <title>EasyNetQ.Serilog</title>
@@ -17,7 +17,7 @@
     <copyright>Copyright Wiebe Tijsma 2015</copyright>
     <tags>RabbitMQ Messaging AMQP REST API Serilog</tags>
     <dependencies>
-      <dependency id="EasyNetQ" version="0.62.1.0" />
+      <dependency id="S.EasyNetQ" version="0.62.1.0" />
       <dependency id="Serilog" version="1.5.11" />
     </dependencies>
   </metadata>

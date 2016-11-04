@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>EasyNetQ.DI.LightInject</id>
+    <id>S.EasyNetQ.DI.LightInject</id>
     <!-- Version gets updated from EasyNetQ.dll version number during the build's packaging process -->
     <version>0.62.1.0</version>
     <title>EasyNetQ.DI.LightInject</title>
@@ -17,7 +17,7 @@
     <copyright>Copyright Mike Hadlow 2016</copyright>
     <tags>RabbitMQ Messaging AMQP REST API LightInject</tags>
     <dependencies>
-      <dependency id="EasyNetQ" version="0.62.1.0" />
+      <dependency id="S.EasyNetQ" version="0.62.1.0" />
       <dependency id="LightInject" version="3.0.2.7" />
     </dependencies>
   </metadata>
