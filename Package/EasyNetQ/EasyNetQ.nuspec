@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>EasyNetQ</id>
+    <id>S.EasyNetQ</id>
     <!-- Version gets updated from EasyNetQ.dll version number during the build's packaging process -->
     <version>0.62.1.0</version>
     <title>S.EasyNetQ</title>
